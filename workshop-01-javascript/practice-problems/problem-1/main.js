@@ -31,8 +31,3 @@ function printList(){
         console.log(shoppingList[i])
     }
 }
-
-function main(){
-    addItem("Job")
-    printList()
-}
